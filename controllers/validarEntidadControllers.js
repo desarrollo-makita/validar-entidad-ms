@@ -42,7 +42,7 @@ async function validarCliente(req , res){
         logger.info(`Fin  la funcion validarCliente ${JSON.stringify(validacionCliente)}`);
         return  res.status(200).json(validacionCliente);
      }catch (error) {
-        console.log("error: " , error);
+       
         // Manejamos cualquier error ocurrido durante el proceso
         logger.error(`Error en validarCliente: ${error.message}`);
         res.status(500).json({ error: `Error en el servidor [validar-entidad-ms] :  ${error.message}`  });
