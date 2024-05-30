@@ -20,7 +20,7 @@ async function validarCliente(req , res){
         }
 
         const tabla = req.body.tabla;
-        const entidad = req.body.codigoPosto;
+        const entidad = req.body.entidad;
        
         logger.info(`Iniciamos la funcion validarCliente`);
 
