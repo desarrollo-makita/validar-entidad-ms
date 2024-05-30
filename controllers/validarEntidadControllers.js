@@ -30,7 +30,7 @@ async function validarCliente(req , res){
         await connectToDatabase('DTEBdQMakita');
         const consulta = `SELECT * FROM ${tabla} WHERE Entidad= '${entidad}' and tipoEntidad = 'cliente' and vigencia = 'S'`;
         const result = await sql.query(consulta);
-        console.log("result: " , result);
+        
         validacionCliente = result.recordset;
 
         if(!validacionCliente.length > 0) {
