@@ -104,3 +104,165 @@
 2024-05-30 09:06:39 [INFO]: La entidad 16802012-0 no se encuentra en nuestros registros
 2024-05-30 09:06:39 [INFO]: Iniciamos la funcion validarCliente
 2024-05-30 09:06:39 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 10:10:07 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:10:07 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:10:52 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:10:52 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:10:58 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:10:58 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:11:50 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:11:50 [ERROR]: Error en validarCliente: Invalid object name 'OrdenesServicio'.
+2024-05-30 10:13:24 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:13:24 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:14:19 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:14:19 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:15:20 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:15:20 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:17:39 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:17:39 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:22:09 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:22:09 [ERROR]: Error en validarCliente: osDataList is not defined
+2024-05-30 10:22:33 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:22:33 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:24:36 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:24:36 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:26:33 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:26:33 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:36:38 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:36:38 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:43:45 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:43:45 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:43:45 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:43:45 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:44:32 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:44:32 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:44:32 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:44:32 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:45:29 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:45:29 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:45:29 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:45:29 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:47:58 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:47:58 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:48:12 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:48:12 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:49:13 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:49:13 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:49:13 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:49:13 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:52:15 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:52:15 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:52:15 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:52:15 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:53:15 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:53:15 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:53:15 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:53:15 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:54:22 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:54:22 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:54:22 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:54:22 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:54:22 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:54:22 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:55:02 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:55:02 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:55:02 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:55:02 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:55:02 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:55:02 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 10:55:30 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:55:30 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:55:30 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:55:30 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:55:30 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:55:30 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 10:57:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:57:05 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:57:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:57:05 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:57:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:57:05 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:57:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:57:05 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 10:58:01 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:58:01 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:58:01 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:58:01 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 10:58:01 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:58:01 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 10:58:01 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 10:58:01 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:00:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:00:16 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:00:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:00:16 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:00:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:00:16 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:00:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:00:16 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:02:23 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:02:23 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:02:23 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:02:23 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:02:23 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:02:23 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:02:23 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:02:23 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:05:41 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:05:41 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:05:41 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:05:41 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:05:41 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:05:41 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:05:41 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:05:41 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:06:53 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:06:53 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:06:53 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:06:53 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:06:53 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:06:53 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:06:53 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:06:53 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:10:00 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:10:00 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:14:08 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:14:08 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:17:47 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:17:47 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:18:30 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:18:30 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:18:30 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:18:30 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:18:30 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:18:30 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:20:17 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:20:17 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:20:17 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:20:17 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:20:17 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:20:17 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:20:17 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:20:17 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:22:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:22:05 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:22:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:22:05 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:22:05 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:22:05 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:26:29 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:26:29 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:26:29 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:26:29 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:26:29 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:26:29 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:26:29 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:26:29 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 11:27:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:27:16 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:27:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:27:16 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 11:27:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:27:16 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 11:27:16 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 11:27:16 [ERROR]: Error en validarCliente: Error en la base de datos

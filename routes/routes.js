@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const { validarCliente } = require('../controllers/validarEntidadControllers');
+const { validarOrden } = require('../controllers/validarOrdenControllers');
 
-router.get('/validar-cliente', validarCliente);
+router.get('/validar-orden', validarOrden);
 
 module.exports = router;
