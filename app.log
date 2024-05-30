@@ -266,3 +266,37 @@
 2024-05-30 11:27:16 [ERROR]: Error: Problemas con los parametros de entrada
 2024-05-30 11:27:16 [INFO]: Iniciamos la funcion validarDatos
 2024-05-30 11:27:16 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 12:22:14 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:14 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:14 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:14 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:14 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:14 [ERROR]: Error: Problemas con los parametros de entrada
+2024-05-30 12:22:14 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:14 [ERROR]: Error en validarCliente: Error en la base de datos
+2024-05-30 12:22:38 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:38 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:39 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:39 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:40 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:40 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:41 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:41 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:43 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:43 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:43 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:43 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:44 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:44 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:45 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:45 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:46 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:46 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:46 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:46 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:47 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:47 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:50 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:50 [INFO]: Fin a la funcion validarOrden validar-orden-ms
+2024-05-30 12:22:51 [INFO]: Iniciamos la funcion validarDatos
+2024-05-30 12:22:51 [INFO]: Fin a la funcion validarOrden validar-orden-ms
