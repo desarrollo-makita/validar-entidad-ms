@@ -14,7 +14,7 @@ async function validarCliente(req , res){
 
         console.log("reqbody: " , req.body);
         
-        if (!req.body.tabla || !req.body.codigoPosto) {
+        if (!req.body.tabla || !req.body.entidad) {
             logger.error(`Error: los parametros de entrada son incorrectos`);
             return res.status(400).json({ error: `Parámetros faltantes o vacíos` });
         }
