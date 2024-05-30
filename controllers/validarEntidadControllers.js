@@ -34,7 +34,7 @@ async function validarCliente(req , res){
         validacionCliente = result.recordset;
 
         if(!validacionCliente.length > 0) {
-            logger.info(`La entidad ${req.body.codigoPosto} no se encuentra en nuestros registros` 
+            logger.info(`La entidad ${req.body.entidad} no se encuentra en nuestros registros` 
             );
             return res.status(200).json({ mensaje: `La entidad ${req.body.entidad} no se encuentra en nuestros registros` });
         }
