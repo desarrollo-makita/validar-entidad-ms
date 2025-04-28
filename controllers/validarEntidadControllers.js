@@ -27,12 +27,13 @@ async function validarCliente(req , res){
         let validacionCliente;
 
         // Conectarse a la base de datos 'DTEBdQMakita'
-        await connectToDatabase('DTEBdQMakita');
+        await connectToDatabase('BdQMakita');
         const consulta = `SELECT * FROM ${tabla} WHERE Entidad= '${entidad}' and tipoEntidad = 'cliente' and vigencia = 'S'`;
+        console.log("consulta: " , consulta);
         const result = await sql.query(consulta);
         
         validacionCliente = result.recordset;
-
+        console.log("clienteeeeeeeeeeeeeeeeee",validacionCliente);
         if(!validacionCliente.length > 0) {
             logger.info(`La entidad ${req.body.entidad} no se encuentra en nuestros registros` 
             );
